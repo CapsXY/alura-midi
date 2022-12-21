@@ -33,3 +33,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📚 Projeto
 
 Utilizando HTML e CSS para a criação de elementos gráficos, junto com o JavaScript para a manipulação dos componentes da página, permitindo modificação e interação, o **Alura MIDI** é uma aplicação focada na reprodução de samples semelhante a um Launchpad.
+<br>
